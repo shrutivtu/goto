@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Hello this is a an attempt to simplify the use of pagination for small scale projects as much as possible. I will keep adding more features to it.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
